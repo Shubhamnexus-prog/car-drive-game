@@ -1,22 +1,40 @@
+# 🚗 Drive Car Game (JavaScript)
 
-
-# 🚗 Car Driving Game (JavaScript)
-
-A simple and fun **2D Car Driving Game** built using **HTML, CSS, and JavaScript**. Control the car, avoid obstacles, and try to score as high as possible!
+A fun and interactive **3D-style car driving game** built using **HTML, CSS, and JavaScript**. Navigate your vehicle across challenging platforms, ramps, and obstacles without falling!
 
 ---
 
-## 🎮 Features
+## 🎮 Gameplay Preview
 
-* 🚗 Smooth car movement (Arrow keys)
-* 🛣️ Infinite moving road
-* 🚧 Random obstacles
-* 📊 Score tracking system
-* ⚡ Lightweight & fast
+* Drive a monster truck across floating platforms 🌉
+* Follow directional arrows ➡️
+* Maintain balance on tricky ramps ⚖️
+* Avoid falling into water 🌊
 
 ---
 
-## 🛠️ Technologies Used
+## ✨ Features
+
+* 🚗 Smooth vehicle controls (Keyboard support)
+* 🧱 Platform-based level design
+* 🎯 Direction indicators for navigation
+* 🌄 Clean and colorful 3D-style graphics
+* ⚡ Fast and lightweight gameplay
+
+---
+
+## 🕹️ Controls
+
+| Key    | Action          |
+| ------ | --------------- |
+| ⬅️ / A | Move Left       |
+| ➡️ / D | Move Right      |
+| Z      | Brake / Reverse |
+| X      | Accelerate      |
+
+---
+
+## 🛠️ Tech Stack
 
 * HTML5
 * CSS3
@@ -24,44 +42,38 @@ A simple and fun **2D Car Driving Game** built using **HTML, CSS, and JavaScript
 
 ---
 
-## ▶️ How to Play
+## 📥 Installation & Setup
 
-1. Open the game in your browser
-2. Use:
-
-   * ⬅️ Left Arrow → Move Left
-   * ➡️ Right Arrow → Move Right
-3. Avoid hitting obstacles
-4. Try to get the highest score 🎯
-
----
-
-## 📥 Installation
-
-Clone this repository:
+Clone the repository:
 
 ```bash
-https://github.com/Shubhamnexus-prog/car-drive-game.git
-cd car-driving-game
+git clone https://github.com/Shubhamnexus-prog/car-drive-game.git
+cd drive-car-game
 ```
 
-Then open `index.html` in your browser.
+Run the project:
+
+* Open `index.html` in browser
+* OR use Live Server (VS Code)
 
 ---
 
-## 📸 Screenshots
-
-<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/e6e5c96b-eb49-4464-bd49-2613e69519de" />
+## 📸 Screenshot
 
 
 
-## ⭐ Support
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/87ef6322-692e-42bb-9a25-c262489a5c0d" />
 
-If you like this project, give it a ⭐ on GitHub
+
+
+
+## 👨‍💻 Author
+
+**Shubham Gupta**
+
+---
+
+## 📬 Contact
+
+Feel free to connect and collaborate!
 https://github.com/Shubhamnexus-prog
----
-
-## 📧 Contact
-
-Created by **shubham gupta**
-Feel free to connect!
